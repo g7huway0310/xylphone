@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Lovepik_com-610389493-Cartoon vector children early education tapping wooden xylophone.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
